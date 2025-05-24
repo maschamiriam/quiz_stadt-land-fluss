@@ -1,0 +1,77 @@
+[
+  {
+    "frage": "An welchem Fluss liegt die Stadt Prag?",
+    "antworten": ["A: Rhein", "B: Moldau", "C: Donau"],
+    "richtig": "B"
+  },
+  {
+    "frage": "In welchem Land liegt die Stadt Lyon?",
+    "antworten": ["A: Frankreich", "B: Belgien", "C: Schweiz"],
+    "richtig": "A"
+  },
+  {
+    "frage": "Welche Stadt liegt am Fluss Tiber?",
+    "antworten": ["A: Rom", "B: Madrid", "C: Athen"],
+    "richtig": "A"
+  },
+  {
+    "frage": "An welchem Fluss liegt die Stadt Budapest?",
+    "antworten": ["A: Elbe", "B: Donau", "C: Seine"],
+    "richtig": "B"
+  },
+  {
+    "frage": "In welchem Land liegt die Stadt Bergen?",
+    "antworten": ["A: Schweden", "B: Norwegen", "C: Dänemark"],
+    "richtig": "B"
+  },
+  {
+    "frage": "Welche Stadt wird von der Seine durchflossen?",
+    "antworten": ["A: Paris", "B: Brüssel", "C: Genf"],
+    "richtig": "A"
+  },
+  {
+    "frage": "An welchem Fluss liegt die Stadt Hamburg?",
+    "antworten": ["A: Elbe", "B: Oder", "C: Rhein"],
+    "richtig": "A"
+  },
+  {
+    "frage": "In welchem Land liegt die Stadt Zürich?",
+    "antworten": ["A: Österreich", "B: Schweiz", "C: Deutschland"],
+    "richtig": "B"
+  },
+  {
+    "frage": "Welche Stadt liegt am Fluss Clyde?",
+    "antworten": ["A: Dublin", "B: Glasgow", "C: Cardiff"],
+    "richtig": "B"
+  },
+  {
+    "frage": "An welchem Fluss liegt die Stadt Florenz?",
+    "antworten": ["A: Arno", "B: Tiber", "C: Po"],
+    "richtig": "A"
+  },
+  {
+    "frage": "In welchem Land liegt die Stadt Porto?",
+    "antworten": ["A: Spanien", "B: Portugal", "C: Italien"],
+    "richtig": "B"
+  },
+  {
+    "frage": "Welche Stadt liegt am Fluss Spree?",
+    "antworten": ["A: Berlin", "B: Dresden", "C: Leipzig"],
+    "richtig": "A"
+  },
+  {
+    "frage": "An welchem Fluss liegt die Stadt Wien?",
+    "antworten": ["A: Donau", "B: Main", "C: Moldau"],
+    "richtig": "A"
+  },
+  {
+    "frage": "In welchem Land liegt die Stadt Krakau?",
+    "antworten": ["A: Tschechien", "B: Polen", "C: Slowakei"],
+    "richtig": "B"
+  },
+  {
+    "frage": "Welche Stadt wird vom Fluss Tejo durchflossen?",
+    "antworten": ["A: Lissabon", "B: Valencia", "C: Barcelona"],
+    "richtig": "A"
+  }
+]
