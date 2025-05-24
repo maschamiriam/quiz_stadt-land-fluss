@@ -5,7 +5,7 @@
     
     Dateiname: 'quizz_app_stadt-land-fluss.py'
               - Bitte lade die Datei 'quizfragen_stadt-land-fluss.json' für die Quizfragen oder erstelle eine eigene JSON-Datei nach vorgegebenem Muster:
-              [{"frage": "An welchem Fluss liegt die Stadt Prag?", "antworten": ["A: Rhein", "B: Moldau", "C: Donau"],"richtig": "B"}, {...})
+              [{"frage": "An welchem Fluss liegt die Stadt Prag?", "antworten": ["A: Rhein", "B: Moldau", "C: Donau"],"richtig": "B"}, {...}]
                 
     Autorin: Mascha Friedrich
     letzte Änderung: 24.05.2025
@@ -144,8 +144,8 @@ def countdown(sekunden=30):
             sleep(1)                                                            # 1 sec Abstand zwischen Countdown-Schritten
             aktualisiere_timer()
         else:
-            timer.config(text="⏰ Zeit abgelaufen", bg="#FCA453")            # bei 0 sec zeigt es "Zeit abgelaufen an" und gibt die richtige Antwort aus
-            zeige_antwort(aktuelle_frage)
+            timer.config(text="⏰ Zeit abgelaufen", bg="#FCA453")              # bei 0 sec zeigt es "Zeit abgelaufen an" und gibt die richtige Antwort aus
+            zeige_antwort(aktuelle_frage)                                       # ? 
     thread = Thread(target=aktualisiere_timer)
     thread.start()
     
